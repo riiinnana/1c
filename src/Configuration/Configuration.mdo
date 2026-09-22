@@ -49,8 +49,10 @@
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Ячейки</catalogs>
+  <documents>Document.ЗаказПоставщику</documents>
   <enums>Enum.ТипыНоменклатуры</enums>
   <enums>Enum.СтавкиНдс</enums>
   <enums>Enum.СтатусыДокументов</enums>
   <informationRegisters>InformationRegister.ЦеныПоставщиков</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТоваров</accumulationRegisters>
 </mdclass:Configuration>
