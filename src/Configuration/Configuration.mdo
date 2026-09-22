@@ -52,4 +52,5 @@
   <enums>Enum.ТипыНоменклатуры</enums>
   <enums>Enum.СтавкиНдс</enums>
   <enums>Enum.СтатусыДокументов</enums>
+  <informationRegisters>InformationRegister.ЦеныПоставщиков</informationRegisters>
 </mdclass:Configuration>
