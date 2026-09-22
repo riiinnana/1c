@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="265fc2ce-2183-4634-b1f5-34f7d71d5421">
+  <producedTypes>
+    <refType typeId="ef8d0f82-3876-438b-884f-f8bb6f1b6f86" valueTypeId="0c3fc79e-6298-40b5-b072-dbfa72f8b6d5"/>
+    <listType typeId="b6833259-19a6-4eee-82ae-8c9873171f5c" valueTypeId="6f3250a2-c268-4a79-b6ef-e2b0fb4449c9"/>
+    <managerType typeId="7d12825c-5e06-42f0-8c15-c1e74b443082" valueTypeId="043cd87e-beb6-4516-8e3d-61966f97a9d2"/>
+  </producedTypes>
+  <name>СтатусыДокументов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статусы документов</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

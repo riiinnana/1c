@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="44bed597-0f9f-4355-b306-aab54cfc4712">
+  <producedTypes>
+    <refType typeId="4085a5d8-0b0d-44b0-8108-291589e17e87" valueTypeId="2de776ff-e7eb-43a7-b3f7-919013f0e7bf"/>
+    <listType typeId="ad90b6c6-a738-4738-bf34-ec18398f5ff6" valueTypeId="ee121f6f-4322-45a6-b724-aa3bab18640f"/>
+    <managerType typeId="7bc7c4e0-66a6-45ad-b0e3-8227bd16639a" valueTypeId="73f47cbf-0960-41d4-a045-dd063b1cac64"/>
+  </producedTypes>
+  <name>ТипыНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Типы номенклатуры</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

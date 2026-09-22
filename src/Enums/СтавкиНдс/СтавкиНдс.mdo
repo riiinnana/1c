@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3cff1c02-0e29-455c-912a-9073271de986">
+  <producedTypes>
+    <refType typeId="f9753f68-4e15-436c-8bd4-c336b5270945" valueTypeId="b9faa28d-d438-4141-a728-cfa88c20d8ae"/>
+    <listType typeId="b5b03567-8043-468b-a09e-5f3911115a52" valueTypeId="9e8b5eaf-12e5-4f70-b132-0fcfd45c41a6"/>
+    <managerType typeId="daa94998-4d4a-4db9-b70e-bc3310fc3a45" valueTypeId="a0f34c1b-16e6-4a2a-a21d-7dad49472c45"/>
+  </producedTypes>
+  <name>СтавкиНдс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ставки НДС</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7f240759-d662-47b5-85f5-859fcc4d1d0c">
+  <producedTypes>
+    <objectType typeId="fb16d597-331e-45eb-949a-b39466ab3938" valueTypeId="7067cac8-a9da-4e55-a43a-ff51b8b693c8"/>
+    <refType typeId="cbb82068-39f2-4d01-bae1-01bc89c2eece" valueTypeId="23cdd23b-924c-4dd6-b2f9-2532671672b7"/>
+    <selectionType typeId="610626e5-03c6-4685-9a47-d102f47757fe" valueTypeId="f47971b5-ca1e-4643-8e43-c521f7beeb5b"/>
+    <listType typeId="c8d50080-c876-4fb4-9fc3-beacd297fb2c" valueTypeId="c310079d-0d59-4ac6-a158-628deb4484a2"/>
+    <managerType typeId="79cf1de1-dd31-48e2-a7d9-f2340824b1db" valueTypeId="950ee1c2-fd3f-4bd5-9709-0d0f189b45a6"/>
+  </producedTypes>
+  <name>ЕдиницыИзмерения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Единицы измерения</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ЕдиницыИзмерения.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ЕдиницыИзмерения.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.ЕдиницыИзмерения.Form.ФормаЭлемента</defaultObjectForm>
+  <forms uuid="f9b4bcc5-cf1f-4e90-aae9-00b4b6b17004">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

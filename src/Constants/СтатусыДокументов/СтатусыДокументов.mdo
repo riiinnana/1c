@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="279951fe-33c5-40cd-b242-4fcaf79a3c15">
+  <producedTypes>
+    <managerType typeId="eacc1ff1-22ea-453f-b2e1-46154c2cce5b" valueTypeId="123b158f-7a29-416e-9c2d-bd05d576e04f"/>
+    <valueManagerType typeId="43c26e0c-d92e-4669-b10b-e4c736d00b82" valueTypeId="49656031-9b63-41ea-9a38-34e161ba8538"/>
+    <valueKeyType typeId="00a4f908-73b8-4334-bcff-603bd19fe791" valueTypeId="ac714be0-917a-4967-97d8-a4c20add32bb"/>
+  </producedTypes>
+  <name>СтатусыДокументов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статусы документов</value>
+  </synonym>
+  <type>
+    <types>ValueStorage</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
