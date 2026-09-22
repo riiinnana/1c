@@ -50,6 +50,9 @@
   <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Ячейки</catalogs>
   <documents>Document.ЗаказПоставщику</documents>
+  <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.ПеремещениеТоваров</documents>
+  <documents>Document.Инвентаризация</documents>
   <enums>Enum.ТипыНоменклатуры</enums>
   <enums>Enum.СтавкиНдс</enums>
   <enums>Enum.СтатусыДокументов</enums>
