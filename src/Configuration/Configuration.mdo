@@ -43,14 +43,12 @@
   <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.Аналитика</subsystems>
   <commonModules>CommonModule.ОбщегоНазначения</commonModules>
-  <constants>Constant.ЕдиницыИзмерения</constants>
-  <constants>Constant.ТипыНоменклатуры</constants>
-  <constants>Constant.СтатусыДокументов</constants>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Подразделения</catalogs>
+  <catalogs>Catalog.Ячейки</catalogs>
   <enums>Enum.ТипыНоменклатуры</enums>
   <enums>Enum.СтавкиНдс</enums>
   <enums>Enum.СтатусыДокументов</enums>

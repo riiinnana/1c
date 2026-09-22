@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1e3f8b5b-8450-4c88-ac29-b2a9c1bab4ab">
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1e3f8b5b-8450-4c88-ac29-b2a9c1bab4ab">
   <producedTypes>
     <objectType typeId="d7c27bfc-8aba-472a-976c-5c8f1bb7db67" valueTypeId="8cfc42b1-7a5a-4a1c-ba29-1263b1b7acd6"/>
     <refType typeId="fbdbc012-7c2a-478b-9c24-7c0d891c0961" valueTypeId="d6c9dcfd-0484-4434-9799-f93808ca51b3"/>
@@ -31,24 +31,6 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.Склады.Form.ФормаЭлемента</defaultObjectForm>
-  <attributes uuid="7aca9790-2af7-4f6e-8c50-0cd30039a5a3">
-    <name>Ячейки</name>
-    <synonym>
-      <key>ru</key>
-      <value>Ячейки</value>
-    </synonym>
-    <type>
-      <types>String</types>
-      <stringQualifiers>
-        <length>10</length>
-      </stringQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:StringValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
   <forms uuid="11678318-05af-465e-96b0-2d49e7a493e8">
     <name>ФормаЭлемента</name>
     <synonym>
