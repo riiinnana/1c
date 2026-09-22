@@ -1,0 +1,7 @@
+﻿.settings/
+bin/
+.externalToolBuilders/
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+*.launch
