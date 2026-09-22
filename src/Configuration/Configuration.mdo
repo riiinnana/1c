@@ -35,4 +35,11 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Продажи</subsystems>
+  <subsystems>Subsystem.Закупки</subsystems>
+  <subsystems>Subsystem.Склад</subsystems>
+  <subsystems>Subsystem.Производство</subsystems>
+  <subsystems>Subsystem.Интеграции</subsystems>
+  <subsystems>Subsystem.Администрирование</subsystems>
+  <subsystems>Subsystem.Аналитика</subsystems>
 </mdclass:Configuration>
